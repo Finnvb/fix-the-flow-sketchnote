@@ -1,10 +1,12 @@
-> _Fork_ deze leertaak en ga aan de slag. Onderstaande outline ga je gedurende deze taak in jouw eigen GitHub omgeving uitwerken. De instructie vind je in: [docs/INSTRUCTIONS.md](docs/INSTRUCTIONS.md)
 
-# Titel
-<!-- Geef je opdracht een titel en schrijf in één zin wat het is -->
+# We ❤️ web - De kracht van CSS
+Dit is een sketchnote die ik gemaakt heb voor de 'we ❤️ web' sessie van Cyd Stumpel.
 
 ## Sketchnotes
-<!-- Toon je gemaakte Sketchnotes en geef je plaatje een korte beschrijving -->
+
+![20211217_154916](https://user-images.githubusercontent.com/26089533/146746386-d8de5ab3-82ac-4e8d-a85e-d91d4549755e.jpg)
+
+In mijn sketchnote probeer ik te illustreren waar de sessie over ging, namelijk: Oorsprong van CSS en Selectors en Keywords.
 
 ## Licentie
 
