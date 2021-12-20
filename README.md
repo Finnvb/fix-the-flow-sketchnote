@@ -6,7 +6,7 @@ Dit is een sketchnote die ik gemaakt heb voor de 'we ❤️ web' sessie van Cyd 
 
 ![20211217_154916](https://user-images.githubusercontent.com/26089533/146746386-d8de5ab3-82ac-4e8d-a85e-d91d4549755e.jpg)
 
-In mijn sketchnote probeer ik te illustreren waar de sessie over ging, namelijk: Oorsprong van CSS en Selectors en Keywords.
+In mijn sketchnote beschrijf ik waar de sessie over ging, namelijk: de oorsprong van CSS en Selectors en Keywords.
 
 ## Licentie
 
